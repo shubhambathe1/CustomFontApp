@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/font1"
+        android:title="FONT BEAUTIFUL"/>
+    <item android:id="@+id/font2"
+        android:title="FONT CASSANDRA"/>
+    <item android:id="@+id/font3"
+        android:title="FONT GRACELAND"/>
+    <item android:id="@+id/font4"
+        android:title="FONT GREAT-DAY"/>
+    <item android:id="@+id/font5"
+        android:title="FONT SAN-FRANCISCO"/>
+    <item android:id="@+id/font6"
+        android:title="FONT SENSATION"/>
+</menu>
